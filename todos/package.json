@@ -3,7 +3,7 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nicholasB85.github.io/todos-part-1",
+  "homepage": "https://NicholasB85.github.io/todos-part-1",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
